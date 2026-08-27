@@ -47,4 +47,10 @@ export const workouts: Workout[] = [{
         difficulty: 'Svårt', 
         reps: 1 
     },
+    {
+        name: 'Hattifnattarnas crunches',
+        category: 'Styrka',
+        difficulty: 'Svårt',
+        reps: 5
+    },
 ];
