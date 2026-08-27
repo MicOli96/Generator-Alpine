@@ -1,6 +1,7 @@
 import './style.css'
 import Alpine from 'alpinejs'
 import { template } from './template'
+import app from "./app";
 
 declare global {
   interface Window {
@@ -8,6 +9,8 @@ declare global {
   }
 }
 window.Alpine = Alpine
+
+Alpine.data("app", app)
 
 document.querySelector("main")!.innerHTML = template()
 
