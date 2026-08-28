@@ -33,3 +33,13 @@ npm run dev
 - [x] **Eventhantering** `x-on:submit` på formuläret för att köra `generateWorkout()`
 
 - [x] **Komponenter** `x-data` för att koppla Alpine-tillståndet (`app()`) till DOM-elementet i `src/template.ts`
+
+
+### Krav för Godkänt
+
+- [x] Uppgiften har lämnats in i tid (Kod & Presentation).
+- [x] Koden innehåller en renskriven Readmefil.
+- [x] Git och GitHub har använts (med regelbunda commits).
+- [x] Sidan innehåller semantisk HTML och är responsiv.
+- [x] Minst fyra av de sju punkterna från listan ovan har används i din kod
+- [x] Under "Hur det tekniskt fungerar" i din presentation förklarar du de delar du använt.
